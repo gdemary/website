@@ -1084,6 +1084,14 @@ PRICING PAGE
   font-size: 14px;
 }
 
+.carousel-control-prev {
+  margin-left: -80px;
+}
+
+.carousel-control-next {
+  margin-right: -80px;
+}
+
 .carousel-indicators {
   bottom: 0px;
   margin-bottom: 0px;
